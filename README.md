@@ -10,6 +10,7 @@
 > 2004
 
 > Lives in Jhargram, West Bengal
+
 ## Education
 > Govt. College of Engineering and Ceramic Technology [ 2021 - Current]
 
