@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Uttam-Mahata
-- 👀 I’m interested in Web Development and in Programming
-- 🌱 I’m currently learning C, C++, Python, PHP
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Uttam-Mahata/Uttam-Mahata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hello! I am Uttam Mahata.
+1. Interests
+   _ Programming
+   _ Web Development
+   _ Cryptography
+2. Favourite Subjects
+   _ Mathematics
+   _ Physics
+3. Education
+   _ Govt. College of Engineering and Ceramic Technology, Kolkata [Current]
+   _ Bandhgora Anchal Vidyalaya (H.S) [Secondary & Higher Secondary]
