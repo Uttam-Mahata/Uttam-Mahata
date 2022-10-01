@@ -3,8 +3,8 @@
 ## Name
 > Uttam Mahata
 
-## Age
-> 17
+⁹
+
 
 ## Born
 > 2004
