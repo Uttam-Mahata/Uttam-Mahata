@@ -3,7 +3,7 @@
 ## Name
 > Uttam Mahata
 
-⁹
+
 
 
 ## Born
@@ -11,12 +11,12 @@
 
 > Lives in Jhargram, West Bengal
 
-## Education
-> Govt. College of Engineering and Ceramic Technology [ 2021 - Current]
 
-> Bandhgora Anchal Vidyalaya (H.S) [ 2013 - 2021]
 
-## Contact Me
-> Email : uttammahata1234@outlook.in
 
-> Github : https://github.com/uttam-mahata
+
+
+
+
+
+
