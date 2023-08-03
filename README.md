@@ -21,12 +21,13 @@
 Hey there! 👋 I'm a curious and creative developer who is passionate about turning ideas into reality through code. Interested in learning new things.
 
 In my free time, I love experimenting with new technologies.
-### Skills
+### Academic Journey
 
-```javascript
-const yourStack = {
-  languages: ["C","C++","JavaScript", "Python"],
-  Learning frontend: ["Angular"],
-  Learning backend: ["Node.js"],
-  tools: ["Git", "VSCode", "Webstorm"],
-};
+- 🎓 **Bachelor of Technology**
+  - Indian Institute of Engineering Science and Technology, Shibpur, 2026
+  - Relevant Coursework: C programming, problem solving
+  - 
+
+### Skills
+  - Languages: C,C++, Java, Python
+  - Learning Angular, Node.js,Core Java
