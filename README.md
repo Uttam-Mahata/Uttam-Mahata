@@ -26,7 +26,7 @@ In my free time, I love experimenting with new technologies.
 - 🎓 **Bachelor of Technology**
   - Indian Institute of Engineering Science and Technology, Shibpur, 2026
   - Relevant Coursework: C programming, problem solving
-  - 
+    
 
 ### Skills
   - Languages: C,C++, Java, Python
