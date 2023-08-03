@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Uttam 👋</h1>
 
-<p align="center">A Passionate Learner | Student</p>
+<p align="center">UG Student @ IIEST, SHIBPUR</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/uttam-mahata-4b0364259">
