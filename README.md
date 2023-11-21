@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D4E03AQHsEr8pJiYeWw/profile-displayphoto-shrink_800_800/0/1670143056111?e=2147483647&v=beta&t=yKPRLykeKeHhzPsNMvzsSb6-Fd5a6MXzKYoyw8Ngqm0" alt="Your Name" width="200" height="200">
+  <img src="https://avatars.githubusercontent.com/u/92252205?v=4" alt="Uttam" width="200" height="200">
 </p>
 
 <h1 align="center">Hi, I'm Uttam 👋</h1>
