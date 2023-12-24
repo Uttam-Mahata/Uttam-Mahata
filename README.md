@@ -29,5 +29,5 @@ In my free time, I love experimenting with new technologies.
     
 
 ### Skills
-  - Languages: C/C++, Python
-  - Learning Angular, Node.js,Java
+  - Languages: C, Java
+  - Learning Angular, Node.js 
