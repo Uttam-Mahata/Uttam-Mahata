@@ -37,9 +37,6 @@ Uttam Mahata, A second-year UG student curious about software development, web d
 - Libraries: Pandas, NumPy, scikit-learn, Matplotlib, NLTK
 
 
-## GitHub Projects
-- List of GitHub projects dynamically fetched from [Uttam-Mahata's GitHub repositories](https://api.github.com/users/Uttam-Mahata/repos).
-
 ## Soft Skills
 - Communication
 - Teamwork
