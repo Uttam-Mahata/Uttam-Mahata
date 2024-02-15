@@ -5,7 +5,7 @@
 # Uttam Mahata
 
 ## Introduction
-Uttam Mahata, A second-year UG student passionate about software development, web development, and data science.
+Uttam Mahata, A second-year UG student curious about software development, web development, and data science. Learning Fundamentals of Computer Science....
 
 ## Technical Skills
 - **Programming Languages:**
@@ -19,11 +19,6 @@ Uttam Mahata, A second-year UG student passionate about software development, we
 - **Other Skills:**
   - Git
   - Linux
-
-## Languages
-- Bengali: Native proficiency
-- Hindi: Fluent
-- English: Proficient
 
 ## Education
 ### Indian Institute of Engineering Science and Technology, Shibpur
@@ -56,12 +51,10 @@ Uttam Mahata, A second-year UG student passionate about software development, we
 
 ## Contact
 - Email: [mahatauttam0408@gmail.com](mailto:mahatauttam0408@gmail.com)
-- Phone: +91 96792 44057
+
 
 ## Social Media
 - [Facebook](https://www.facebook.com/uttamm.21.0.4.8/)
 - [LinkedIn](https://www.linkedin.com/in/uttam-mahata-4b0364259/)
 - [GitHub](https://github.com/Uttam-Mahata)
 
-## Footer
-&copy; 2024 Uttam Mahata. All rights reserved.
