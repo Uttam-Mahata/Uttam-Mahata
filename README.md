@@ -51,7 +51,6 @@ Uttam Mahata, A second-year UG student curious about software development, web d
 
 
 ## Social Media
-- [Facebook](https://www.facebook.com/uttamm.21.0.4.8/)
 - [LinkedIn](https://www.linkedin.com/in/uttam-mahata-4b0364259/)
 - [GitHub](https://github.com/Uttam-Mahata)
 
