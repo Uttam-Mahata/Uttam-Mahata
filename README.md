@@ -1,9 +1,8 @@
 
 
 # Uttam Mahata
-
-## Introduction
-Uttam Mahata, A second-year UG student curious about software development, web development, and data science. Learning Fundamentals of Computer Science....
+Hello , I am a second-year undergraduate student, curious about software development, web development, and data science.
+Currently, I am learning Fundamentals of Computer Science, Data Structures, Design and Analysis of Algorithms, Data Science, Object Oriented Programming.
 
 ## Technical Skills
 - **Programming Languages:**
@@ -41,11 +40,9 @@ Uttam Mahata, A second-year UG student curious about software development, web d
 - Communication
 - Teamwork
 - Problem-solving
-- 
 
 ## Contact
 - Email: [mahatauttam0408@gmail.com](mailto:mahatauttam0408@gmail.com)
-
 
 ## Social Media
 - [LinkedIn](https://www.linkedin.com/in/uttam-mahata-4b0364259/)
