@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/92252205?v=4" alt="Uttam" width="200" height="200">
-</p>
+
 
 # Uttam Mahata
 
