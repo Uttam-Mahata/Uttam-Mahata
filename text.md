@@ -1,27 +1,3 @@
-
-
-## <div style="color:blue">🛠️ Technical Skills</div>
-
-**<div style="color:green">Programming Languages:</div>**
-
-* **Proficient:** <div style="color:red">C/C++</div>, <div style="color:red">Python</div>, <div style="color:red">Java</div>
-* **Familiar:** <div style="color:orange">MATLAB</div>
-
-**<div style="color:green">Frameworks:</div>**
-
-* Frontend: <div style="color:red">Bootstrap</div>, <div style="color:red">Angular</div>, <div style="color:red">PrimeNG</div>
-
-
-**<div style="color:green">Other Skills:</div>**
-
-* <div style="color:red">Git & Version Control</div>
-* <div style="color:red">Linux</div>
-
-## Education
-
-* **Indian Institute of Engineering Science and Technology, Shibpur (2022-present)**
-    * Bachelor of Technology in Computer Science and Technology
-
 ## Projects
 
 * **Optimizing Document Clustering (Python):**
