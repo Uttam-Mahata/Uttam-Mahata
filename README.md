@@ -10,21 +10,22 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.facebook.com/uttamm.21.0.4.8/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="FB Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <br/>
+
   <img src="https://komarev.com/ghpvc/?username=Uttam-Mahata&style=flat-square&color=blue" alt=""/>
 
 </div>
+
 ---
 
 ## About Me
 
-- :mortar_board: I'm a second-year undergraduate student pursuing a Bachelor's degree in Computer Science and Technology at Indian Institute of Engineering Science and Technology, Shibpur.
-- :computer: I'm deeply interested in data science, machine learning, and web development.
-- :rocket: My journey into the world of programming started with a curiosity to understand how technology works.
-- :deciduous_tree: Outside of coding, I enjoy exploring nature, playing sports, and spending time with friends and family.
-- :books: I'm also a keen reader and love diving into books on a wide range of topics.
+ :mortar_board: I'm a second-year undergraduate student pursuing a Bachelor's degree in Computer Science and Technology at Indian Institute of Engineering Science and Technology, Shibpur.
+ :computer: I'm deeply interested in data science, machine learning, and web development.
+ :rocket: My journey into the world of programming started with a curiosity to understand how technology works.
+ :deciduous_tree: Outside of coding, I enjoy exploring nature, playing sports, and spending time with friends and family.
+ :books: I'm also a keen reader and love diving into books on a wide range of topics.
 
 ---
 
@@ -46,7 +47,6 @@
 ---
 
 ### My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Uttam-Mahata&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Uttam-Mahata&show_icons=true&theme=radical" alt="Uttam's GitHub Stats"/>
+</div>
