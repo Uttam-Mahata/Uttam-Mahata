@@ -1,6 +1,6 @@
 <div>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Uttam Mahata&animation=fadeIn&type=waving&color=gradient&height=100&textColor=blue"/>
+  <img src="https://capsule-render.vercel.app/api?text=Uttam&nbsp;Mahata&animation=fadeIn&type=waving&color=gradient&height=100&textColor=blue"/>
 </p>
 </div>
 
@@ -12,8 +12,10 @@
   <a href="https://www.facebook.com/uttamm.21.0.4.8/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Uttam-Mahata&style=flat-square&color=blue" alt=""/>
+
 </div>
-<img src="https://komarev.com/ghpvc/?username=Uttam-Mahata&style=flat-square&color=blue" alt=""/>
 
 
 ---
@@ -46,7 +48,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/primeng/primeng-original-wordmark.svg" title="PrimeNG" alt="PrimeNG" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
 </div>
 
 ---
@@ -57,12 +59,34 @@
 </div>
 
 ---
+
+---
+
+### Most Used Languages :
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uttam-Mahata&theme=radical" alt="Uttam's Most Used Languages"/>
+</div>
+
+---
 ## Projects
 
 * **Optimizing Document Clustering (Python):**
     * Developed a correlation-based clustering algorithm to optimize document grouping using libraries like Pandas, NumPy, scikit-learn, Matplotlib, and NLTK.
 * **Winners Edutech Pvt. Ltd. - Frontend Website (Angular):**
     * Actively contributing to the frontend development of a dynamic educational platform, utilizing skills in Angular, PrimeNG, TypeScript, HTML, and CSS.
+
+
+---
+
+## Soft Skills
+
+:handshake: **Teamwork:** I enjoy working in a team and believe in the power of collaboration.
+
+
+:dart: **Problem Solving:** I love challenges and have a knack for finding solutions to complex problems.
+
+
+
 
 
 
