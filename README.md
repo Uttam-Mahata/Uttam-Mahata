@@ -1,23 +1,23 @@
-## About Me
+## <div style="color:blue">About Me</div>
 
 I'm a second-year undergraduate student pursuing a Bachelor's degree in Computer Science and Technology at Indian Institute of Engineering Science and Technology, Shibpur. I'm deeply interested in data science, machine learning, and web development. My journey into the world of programming started with a curiosity to understand how technology works. Outside of coding, I enjoy exploring nature, playing sports, and spending time with friends and family. I'm also a keen reader and love diving into books on a wide range of topics.
 
-## Technical Skills
+## <div style="color:blue">🛠️ Technical Skills</div>
 
-**Programming Languages:**
+**<div style="color:green">Programming Languages:</div>**
 
-* **Proficient:** C/C++, Python, Java
-* **Familiar:** MATLAB
+* **Proficient:** <div style="color:red">C/C++</div>, <div style="color:red">Python</div>, <div style="color:red">Java</div>
+* **Familiar:** <div style="color:orange">MATLAB</div>
 
-**Frameworks:**
+**<div style="color:green">Frameworks:</div>**
 
-* Frontend: Bootstrap, Angular, PrimeNG
+* Frontend: <div style="color:red">Bootstrap</div>, <div style="color:red">Angular</div>, <div style="color:red">PrimeNG</div>
 
 
-**Other Skills:**
+**<div style="color:green">Other Skills:</div>**
 
-* Git & Version Control
-* Linux
+* <div style="color:red">Git & Version Control</div>
+* <div style="color:red">Linux</div>
 
 ## Education
 
