@@ -70,8 +70,7 @@
 ---
 ## Projects
 
-* **Optimizing Document Clustering (Python):**
-    * Developed a correlation-based clustering algorithm to optimize document grouping using libraries like Pandas, NumPy, scikit-learn, Matplotlib, and NLTK.
+
 * **Winners Edutech Pvt. Ltd. - Frontend Website (Angular):**
     * Actively contributing to the frontend development of a dynamic educational platform, utilizing skills in Angular, PrimeNG, TypeScript, HTML, and CSS.
 
