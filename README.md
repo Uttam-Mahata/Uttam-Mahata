@@ -95,30 +95,6 @@
 
 ---
 
-## :octocat: GitHub Projects
-
-<div id="github-projects" align="center">
-  <!-- Repositories will be injected here -->
-</div>
-
-<script>
-  fetch('https://api.github.com/users/Uttam-Mahata/repos')
-    .then(response => response.json())
-    .then(repos => {
-      const projectContainer = document.getElementById('github-projects');
-      repos.forEach(repo => {
-        const repoDiv = document.createElement('div');
-        repoDiv.style.margin = '10px';
-        repoDiv.innerHTML = `
-          <a href="${repo.html_url}" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=${repo.owner.login}&repo=${repo.name}&theme=radical" alt="${repo.name}"/>
-          </a>`;
-        projectContainer.appendChild(repoDiv);
-      });
-    })
-    .catch(error => console.error('Error fetching GitHub repositories:', error));
-</script>
-
 ## :handshake: Soft Skills
 
 - **Teamwork:** I enjoy collaborating and believe in the power of working together.
