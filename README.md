@@ -2,103 +2,105 @@
   <img src="https://capsule-render.vercel.app/api?text=Uttam&nbsp;Mahata&animation=fadeIn&type=waving&color=auto&height=200&fontSize=60"/>
 </div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/uttam-mahata-4b0364259/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/uttam-mahata-4b0364259/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>&nbsp;
+  <a href="https://www.facebook.com/uttamm.21.0.4.8/">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://www.facebook.com/uttamm.21.0.4.8/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=Uttam-Mahata&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
 ---
 
-<h2 align="center"> :star2: About Me :star2:</h2>
+## About Me
 
-<p align="center">
-  <img src="https://img.icons8.com/ios-filled/50/000000/student-male.png"/>
-</p>
+:student: **Second-year undergraduate student** pursuing a Bachelor's degree in Computer Science and Technology at Indian Institute of Engineering Science and Technology, Shibpur.
 
-- 🎓 **B.Tech in Computer Science & Technology** from **IIEST, Shibpur**
-- 💻 Passionate about **Data Science**, **Machine Learning**, and **Web Development**
-- 🌱 Love exploring **nature** and spending time with **friends & family**
-- 📖 Avid **reader** with an interest in a wide range of topics
+:computer: **Passionate about Data Science, Machine Learning, and Web Development.**
+
+:rocket: **My programming journey** began with a deep curiosity to understand the mechanics behind technology.
+
+:deciduous_tree: **Beyond coding**, I love exploring nature, playing sports, and spending quality time with friends and family.
+
+:books: **Avid reader** with a wide interest in various topics.
 
 ---
 
-<h2 align="center"> :hammer_and_wrench: Languages and Tools :hammer_and_wrench:</h2>
+## :hammer_and_wrench: Skills & Tools:
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
 </div>
 
 ---
 
-<h2 align="center"> :chart_with_upwards_trend: My GitHub Stats :chart_with_upwards_trend:</h2>
+## :bar_chart: My Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uttam-Mahata&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uttam-Mahata&theme=tokyonight&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Uttam-Mahata&show_icons=true&theme=radical" alt="Uttam's GitHub Stats"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uttam-Mahata&theme=radical" alt="GitHub Streak"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uttam-Mahata&layout=compact&theme=radical" alt="Most Used Languages"/>
 </div>
 
 ---
 
-<h2 align="center"> :rocket: Projects :rocket:</h2>
+## :briefcase: Experience
 
-- **Winners Edutech Pvt. Ltd. - Frontend Website (Angular):**
-    - Actively contributing to the frontend development of a dynamic educational platform using **Angular**, **PrimeNG**, **TypeScript**, **HTML**, and **CSS**.
+**Winners - Web Developer**  
+*Jhargram, India | June 2023 – Present*
 
-- **Comprehensive Scoreboard Management System:**
-    - Developed a system using **Spring Boot** and **Angular** to view and manage exam scores across different exams.
+- Implemented smooth and responsive UI components, improving user engagement and overall interface quality.
+- Integrated REST APIs with frontend components, facilitating dynamic content updates and enhancing functionality.
+- Developed features for the admin site, including the ability to download the scoreboard as PDF or Excel, and a feature to download question papers as PDFs.
+- Implemented a comprehensive Scoreboard management section using Spring Boot and Angular, enabling users to view exam scores across different exams, providing essential insights into student performance.
 
-- **Web WhatsApp Automation:**
-    - Automated WhatsApp messaging using **Selenium** and **Gemini API** for personalized message generation.
-
-- **Chatbot with Gemini API:**
-    - Created a chatbot interface using **Angular** and **Google Generative AI** to focus on educational topics.
-
-- **Multiple Linear Regression Model for Predicting Shared Bike Demand:**
-    - Built a predictive model using **Python** to estimate shared bike demand.
+*Technology Stack: Angular, HTML, CSS, TypeScript, PrimeNG, Bootstrap, Spring Boot, Java*
 
 ---
 
-<h2 align="center"> :book: Education :book:</h2>
+## :bulb: Projects
 
-- **Indian Institute of Engineering Science and Technology, Shibpur**
-    - Bachelor of Technology in Computer Science & Technology
-    - CGPA: 9.07 (Till 4th Semester)
-    - 2022 - 2026
-- **Bandhgora Anchal Vidyalaya H.S**
-    - Higher Secondary, WBCHSE: 92.20%
-    - Secondary Examination, WBBSE: 93.42%
-    - 2018 - 2021
+- **Comprehensive Scoreboard Management System**  
+  Developed a system to manage and view exam scores using Spring Boot and Angular.
 
----
+- **Web WhatsApp Automation**  
+  Automated sending personalized messages to WhatsApp contacts using Selenium and the Gemini API.
 
-<h2 align="center"> :speech_balloon: Soft Skills :speech_balloon:</h2>
+- **Chatbot with Gemini API**  
+  Created an educational chatbot with Angular and Google Generative AI.
 
-- **Teamwork:** Collaborates effectively with peers and mentors.
-- **Problem Solving:** Finds creative solutions to complex problems.
-- **Quick Learner:** Adapts to new challenges and technologies rapidly.
+- **Multiple Linear Regression Model for Predicting Shared Bike Demand**  
+  Built a predictive model using multiple linear regression techniques.
 
 ---
 
-<h2 align="center"> :gear: Skills & Interests :gear:</h2>
+## :handshake: Soft Skills
 
-- **Programming Languages:** C/C++, Java, Python
-- **Web Development:** HTML, CSS, Angular, JavaScript, TypeScript, PrimeNG, Bootstrap
-- **Technical Skills:** Data Structures, Algorithms, OOP, Data Science, MySQL, Spring Boot
-- **Version Control:** Git, Linux
-- **Interests:** Data Science, Machine Learning, Web Development
+- **Teamwork:** I enjoy collaborating and believe in the power of working together.
+- **Problem-Solving:** I thrive on challenges and finding solutions to complex problems.
+- **Quick Learner:** I am eager to learn new technologies and methodologies.
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&height=120"/>
+</div>
