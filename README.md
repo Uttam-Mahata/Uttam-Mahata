@@ -6,10 +6,10 @@
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/uttam-mahata-4b0364259/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>&nbsp;
+  </a> 
   <a href="https://www.facebook.com/uttamm.21.0.4.8/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>&nbsp;
+  </a>
   <a href="https://gitlab.com/uttam123a" target="_blank">
     <img src="https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
   </a>
