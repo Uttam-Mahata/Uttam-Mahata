@@ -18,7 +18,7 @@
 
 ## About Me
 
-:student: **Second-year undergraduate student** pursuing a Bachelor's degree in Computer Science and Technology at Indian Institute of Engineering Science and Technology, Shibpur.
+:student: **Undergraduate student** pursuing a Bachelor's degree in Computer Science and Technology at Indian Institute of Engineering Science and Technology, Shibpur.
 
 :computer: **Passionate about Data Science, Machine Learning, and Web Development.**
 
