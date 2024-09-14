@@ -76,36 +76,40 @@
 *Technology Stack: Angular, HTML, CSS, TypeScript, PrimeNG, Bootstrap, Spring Boot, Java*
 
 ---
+
 ## :bulb: Projects
 
-- **Comprehensive Scoreboard Management System**
-  *Aug 2024 - Sep 2024* 
-  Developed a system to manage and view exam scores using Spring Boot and Angular.
+- **Comprehensive Scoreboard Management System**  
+  *Aug 2024 - Sep 2024*  
+  Developed a scoreboard management system using Spring Boot and Angular, allowing users to view exam scores across different exams. Implemented features for course, subject, student, and exam management, providing a holistic view of student performance.  
+  **Technology Stack**: Spring Boot, Angular, Bootstrap, REST API, Docker, PostgreSQL
 
 - **CRMS - A Course Recommendation System**  
   *Sep 2024 - Present*  
-  I am building a course recommendation engine that suggests similar Coursera courses based on user input. This project utilizes NLP techniques like CountVectorizer and TF-IDF Vectorization, paired with cosine similarity to find the most relevant courses based on content descriptions and skills.
+  I am building a course recommendation engine that suggests similar Coursera courses based on user input. This project utilizes NLP techniques like CountVectorizer and TF-IDF Vectorization, paired with cosine similarity to find the most relevant courses based on content descriptions and skills.  
+  **Technology Stack**: Python, Pandas, Scikit-learn, TF-IDF, Cosine Similarity
 
 - **Shortly - URL Shortening Service**  
   *Sep 2024 - Sep 2024*  
-  Developed and implemented a URL shortening service in Java, similar to TinyURL, which efficiently encodes long URLs into shorter, unique identifiers and decodes them back to their original form. The solution features a robust encoding and decoding mechanism using a HashMap for storage and a random string generator for creating short URLs.
+  Developed and implemented a URL shortening service in Java, similar to TinyURL, that efficiently encodes long URLs into shorter, unique identifiers and decodes them back to their original form. Implemented a robust encoding and decoding mechanism using a HashMap for storage, combined with a random string generator for creating short URLs. Optimized the service for high performance and scalability, ensuring quick access to original URLs and minimal collision in short URL generation.  
+  **Technology Stack**: Java, Spring Boot, Angular, MySQL, Docker
 
-  **Skills**: Spring Boot · MySQL · Angular · Angular Material · Java · TypeScript · Cascading Style Sheets (CSS) · HTML
-
-  - **Web WhatsApp Automation**
-  *Jul 2024 - Aug 2024* 
-  Automated sending personalized messages to WhatsApp contacts using Selenium and the Gemini API.
-
-- **Chatbot with Gemini API**
+- **Web WhatsApp Automation**  
   *Jul 2024 - Aug 2024*  
-  Created an educational chatbot with Angular and Google Generative AI.
+  Automated sending personalized messages to WhatsApp contacts using Selenium and the Gemini API.  
+  **Technology Stack**: Selenium, Java, Gemini API
 
-- **Multiple Linear Regression Model for Predicting Shared Bike Demand**
-   *May 2024 - May 2024* 
-  Built a predictive model using multiple linear regression techniques.
+- **Chatbot with Gemini API**  
+  *Jun 2024 - Aug 2024*  
+  Designed and implemented a user-friendly chat interface using Angular and PrimeNG. Integrated Google Generative AI to generate contextually relevant responses, enhancing the chatbot's educational value.  
+  **Technology Stack**: Angular, HTML, CSS, PrimeNG, Google AI (JavaScript SDK)
 
-
+- **Multiple Linear Regression Model for Predicting Shared Bike Demand**  
+  *May 2024 - May 2024*  
+  Built a predictive model using multiple linear regression techniques to predict shared bike demand.  
+  **Technology Stack**: Python, Jupyter Notebook, Pandas, Statsmodels
 ---
+
 
 ## :handshake: Soft Skills
 
