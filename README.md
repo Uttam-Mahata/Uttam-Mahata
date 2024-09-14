@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/uttam-mahata-4b0364259/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> 
-  <a href="https://www.facebook.com/uttamm.21.0.4.8/" target="_blank">
+  <a href="https://www.facebook.com/uttamm0.21.4.8/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://gitlab.com/uttam123a" target="_blank">
@@ -25,8 +25,6 @@
 :computer: **Passionate about Data Science, Machine Learning, and Web Development.**
 
 :rocket: **My programming journey** began with a deep curiosity to understand the mechanics behind technology.
-
-:deciduous_tree: **Beyond coding**, I love exploring nature, playing sports, and spending quality time with friends and family.
 
 :books: **Avid reader** with a wide interest in various topics.
 
@@ -78,20 +76,34 @@
 *Technology Stack: Angular, HTML, CSS, TypeScript, PrimeNG, Bootstrap, Spring Boot, Java*
 
 ---
-
 ## :bulb: Projects
 
-- **Comprehensive Scoreboard Management System**  
+- **Comprehensive Scoreboard Management System**
+  *Aug 2024 - Sep 2024* 
   Developed a system to manage and view exam scores using Spring Boot and Angular.
 
-- **Web WhatsApp Automation**  
+- **CRMS - A Course Recommendation System**  
+  *Sep 2024 - Present*  
+  I am building a course recommendation engine that suggests similar Coursera courses based on user input. This project utilizes NLP techniques like CountVectorizer and TF-IDF Vectorization, paired with cosine similarity to find the most relevant courses based on content descriptions and skills.
+
+- **Shortly - URL Shortening Service**  
+  *Sep 2024 - Sep 2024*  
+  Developed and implemented a URL shortening service in Java, similar to TinyURL, which efficiently encodes long URLs into shorter, unique identifiers and decodes them back to their original form. The solution features a robust encoding and decoding mechanism using a HashMap for storage and a random string generator for creating short URLs.
+
+  **Skills**: Spring Boot · MySQL · Angular · Angular Material · Java · TypeScript · Cascading Style Sheets (CSS) · HTML
+
+  - **Web WhatsApp Automation**
+  *Jul 2024 - Aug 2024* 
   Automated sending personalized messages to WhatsApp contacts using Selenium and the Gemini API.
 
-- **Chatbot with Gemini API**  
+- **Chatbot with Gemini API**
+  *Jul 2024 - Aug 2024*  
   Created an educational chatbot with Angular and Google Generative AI.
 
-- **Multiple Linear Regression Model for Predicting Shared Bike Demand**  
+- **Multiple Linear Regression Model for Predicting Shared Bike Demand**
+   *May 2024 - May 2024* 
   Built a predictive model using multiple linear regression techniques.
+
 
 ---
 
