@@ -29,6 +29,10 @@
 :books: **Avid reader** with a wide interest in various topics.
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=Uttam-Mahata)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 
 ## :hammer_and_wrench: Skills & Tools:
 
