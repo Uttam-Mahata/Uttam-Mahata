@@ -13,7 +13,11 @@
   <a href="https://gitlab.com/uttam123a" target="_blank">
     <img src="https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
   </a>
+  <a href="https://hashnode.com/@uttammahata" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-green?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
+  </a>
 </div>
+
 
 
 ---
