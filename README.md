@@ -1,8 +1,4 @@
-Your profile is already impressive, but here are a few suggestions to make it even more engaging:
 
----
-
-## Enhanced Version of Your Profile
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?text=Uttam&nbsp;Mahata&animation=fadeIn&type=waving&color=gradient&height=200&fontSize=60&fontAlignY=35"/>
