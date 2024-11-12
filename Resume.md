@@ -3,7 +3,7 @@
 **Location:** Howrah, India | **Phone:** +91 9679244057 | **Email:** uttammahata.a1@gmail.com  
 **LinkedIn:** [uttam-mahata-4b0364259](https://www.linkedin.com/in/uttam-mahata-4b0364259/) | **GitHub:** [Uttam-Mahata](https://github.com/Uttam-Mahata)
 
----
+
 
 ## Education
 
@@ -12,7 +12,7 @@ Indian Institute of Engineering Science and Technology, Shibpur | **2022 – 202
 **CGPA:** 9.07 (Till 4th Semester)  
 **Relevant Coursework:** Data Structures, Algorithms, Computer Architecture, Data Science, Programming Paradigms, Database Management, Soft Computing, Graph Algorithms
 
----
+
 
 ## Projects
 
@@ -37,7 +37,6 @@ Indian Institute of Engineering Science and Technology, Shibpur | **2022 – 202
 
 **Tech Stack:** Angular, HTML, CSS, TypeScript, PrimeNG, Bootstrap, Spring Boot, Java
 
----
 
 ### CRMS - Course Recommendation System  
 **Role:** Developer  
@@ -49,7 +48,6 @@ Indian Institute of Engineering Science and Technology, Shibpur | **2022 – 202
 
 **Tech Stack:** Python, Jupyter Notebook, Pandas, Scikit-learn
 
----
 
 ### Loan Status Prediction with Machine Learning Models  
 **Role:** Data Analyst  
@@ -61,7 +59,6 @@ Indian Institute of Engineering Science and Technology, Shibpur | **2022 – 202
 
 **Tech Stack:** Python, Scikit-learn, XGBoost, LightGBM, Matplotlib, Seaborn
 
----
 
 ## Skills
 
@@ -80,7 +77,6 @@ Indian Institute of Engineering Science and Technology, Shibpur | **2022 – 202
 - **Operating Systems:** Linux
 - **Other Tools:** Firebase, Jupyter Notebook
 
----
 
 ## Interests
 
