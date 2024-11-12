@@ -1,63 +1,91 @@
-# Uttam Mahata
+# <p align="center">**Uttam Mahata**</p>
 
-**Location:** Howrah, India | **Phone:** +91 9679244057 | **Email:** uttammahata.a1@gmail.com  
-**LinkedIn:** [uttam-mahata-4b0364259](https://www.linkedin.com/in/uttam-mahata-4b0364259/) | **GitHub:** [Uttam-Mahata](https://github.com/Uttam-Mahata)
-
+<p align="center">
+  Howrah, India &nbsp;|&nbsp; +91 9679244057 &nbsp;|&nbsp; 
+  <a href="mailto:uttammahata.a1@gmail.com">uttammahata.a1@gmail.com</a> &nbsp;|&nbsp; 
+  <a href="https://www.linkedin.com/in/uttam-mahata-4b0364259">LinkedIn</a> &nbsp;|&nbsp; 
+  <a href="https://github.com/Uttam-Mahata">Github</a>
+</p>
 
 
 ## Education
 
 **Bachelor of Technology in Computer Science & Technology**  
 Indian Institute of Engineering Science and Technology, Shibpur | **2022 – 2026**  
-**CGPA:** 9.07 (Till 4th Semester)  
-**Relevant Coursework:** Data Structures, Algorithms, Computer Architecture, Data Science, Programming Paradigms, Database Management, Soft Computing, Graph Algorithms
+**CGPA: 9.07** (up to 4th Semester)  
 
+**Relevant Coursework:**  
+- **Data Structures**
+- **Design and Analysis of Algorithms**
+- **Computer Architecture and Organization**  
+- **Introduction to Data Science**  
+- **Programming Paradigms**
+- **Microprocessor Based Systems** 
+- **Database Management Systems**  
+- **Soft Computing**  
+- **Graph Algorithms**
 
 
 ## Projects
 
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
 ### Course Wagon  
 **Duration:** Oct 2024 – Present  
-**Description:** Developed a web application for automated course management, leveraging **Gemini API** for AI-driven course content generation and **MySQL** for data storage.
+**Description:** Developed a web application for automated course management, using **Gemini API** for AI-driven content generation and **MySQL** for data storage.
 
-- **Key Features:** Automated subject creation using AI, integrated MySQL database for efficient content management.
-- **Applications:** Enhances course content creation for educational institutions and online learning platforms.
+- **Key Features:** Automated AI-based course creation, efficient MySQL data management.
+- **Applications:** Saves time, streamlines course content creation for educational platforms.
 
-**Tech Stack:** Python, Flask, Angular, MySQL, Gemini API, HTML, CSS, JavaScript
+**Tech Stack:** Python, Flask, Angular, MySQL, Google Gemini API, HTML, CSS, TypeScript, Bootstrap
 
----
+</td>
+<td width="50%" valign="top">
 
 ### Winners Education  
 **Role:** Web Developer  
 **Duration:** Jun 2023 – Present  
-**Description:** Designed a scalable web application for a coaching institute, emphasizing UI/UX enhancements and backend efficiency.
+**Description:** Designed a scalable web application for a coaching institute, focusing on UI/UX improvements and backend efficiency.
 
-- **Key Contributions:** Developed a **Scoreboard Management System** with Spring Boot and Angular, enabling score tracking and PDF/Excel report generation.
-- **Features:** Integrated responsive UI components and REST APIs for dynamic updates.
+- **Key Contributions:** Developed a **Scoreboard Management System** with Spring Boot and Angular for score tracking and PDF/Excel report generation.
+- **Features:** Responsive UI, REST APIs for real-time updates.
 
 **Tech Stack:** Angular, HTML, CSS, TypeScript, PrimeNG, Bootstrap, Spring Boot, Java
 
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### CRMS - Course Recommendation System  
 **Role:** Developer  
 **Duration:** Sep 2024 – Oct 2024  
-**Description:** Created a course recommendation engine that suggests Coursera courses using NLP techniques such as **CountVectorizer** and **TF-IDF** with **cosine similarity** for accurate matching.
+**Description:** Built a recommendation engine that suggests Coursera courses using **CountVectorizer** and **TF-IDF** with **cosine similarity**.
 
-- **Key Features:** Personalized course recommendations based on user interests and skills.
-- **Techniques:** CountVectorizer, TF-IDF Vectorization, Cosine Similarity
+- **Key Features:** Personalized recommendations based on user skills and interests.
+- **Techniques:** NLP with CountVectorizer, TF-IDF, Cosine Similarity
 
 **Tech Stack:** Python, Jupyter Notebook, Pandas, Scikit-learn
 
+</td>
+<td width="50%" valign="top">
 
-### Loan Status Prediction with Machine Learning Models  
+### Loan Status Prediction  
 **Role:** Data Analyst  
 **Duration:** Aug 2024  
-**Description:** Built a machine learning model to predict loan status using **RandomForest, XGBoost,** and **LightGBM**, evaluated with **Stratified K-Fold Cross-Validation** and **ROC-AUC** metrics.
+**Description:** Built a machine learning model for loan status prediction using **RandomForest, XGBoost,** and **LightGBM** with **Stratified K-Fold** and **ROC-AUC** metrics.
 
-- **Key Responsibilities:** Preprocessed data, implemented cross-validation, and plotted ROC curves for model comparison.
-- **Evaluation:** Achieved high ROC-AUC scores, demonstrating strong predictive accuracy.
+- **Key Responsibilities:** Data preprocessing, cross-validation, ROC curve analysis.
+- **Evaluation:** Achieved high ROC-AUC for predictive accuracy.
 
 **Tech Stack:** Python, Scikit-learn, XGBoost, LightGBM, Matplotlib, Seaborn
+
+</td>
+</tr>
+</table>
 
 
 ## Skills
