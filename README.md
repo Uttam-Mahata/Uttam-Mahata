@@ -61,12 +61,3 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 🏆 GitHub Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Uttam-Mahata&theme=radical&no-frame=true&margin-w=15)
-
-## 📊 GitHub Stats
-
-![Uttam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uttam-Mahata&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uttam-Mahata&layout=compact&theme=radical)
