@@ -14,7 +14,7 @@
 
 :rocket: **Fueled by curiosity**, I delve into understanding complex tech mechanisms, coding, and innovative project development.
 
-:books: **Lifelong learner and avid reader** who enjoys exploring a wide range of topics.
+:books: **Lazy learner and avid reader** who enjoys exploring a wide range of topics.
 
 ---
 
