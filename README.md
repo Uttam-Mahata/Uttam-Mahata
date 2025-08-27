@@ -62,14 +62,3 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📈 GitHub Metrics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uttam-Mahata&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uttam-Mahata&theme=radical" alt="GitHub Streak"/>
-</div>
-
-## 👨‍💻 Most Used Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uttam-Mahata&layout=compact&theme=radical" alt="Most Used Languages"/>
-</div>
