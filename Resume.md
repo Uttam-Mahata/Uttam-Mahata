@@ -108,4 +108,4 @@ Indian Institute of Engineering Science and Technology, Shibpur | **2022 – 202
 
 ## Interests
 
-- **Fields of Interest:** Data Science, Machine Learning, Web Development
+- **Fields of Interest:** DevOps, Operating System Concepts, Computer Networks, Distributed Systems
