@@ -61,3 +61,11 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uttam-Mahata&show_icons=true&include_all_commits=true&theme=default)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Uttam-Mahata&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uttam-Mahata&layout=compact&theme=default)
+
+
+
