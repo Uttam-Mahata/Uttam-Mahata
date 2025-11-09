@@ -65,7 +65,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Uttam-Mahata&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uttam-Mahata&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uttam-Mahata&layout=compact&hide=Jupyter%20Notebook,HTML,CSS)
+
 
 
 
