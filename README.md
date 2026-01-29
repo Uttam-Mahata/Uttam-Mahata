@@ -8,7 +8,7 @@
 
 :student: **Undergraduate student** at the Indian Institute of Engineering Science and Technology, Shibpur, pursuing a Bachelor's degree in Computer Science and Technology.
 
-:computer: **A technology enthusiast** with a strong inclination towards DevOps, Operating System Concepts, Computer Networks, and Distributed Systems.
+:computer: **A technology enthusiast** with a strong inclination towards Operating System Concepts, Computer Networks, and Distributed Systems.
 
 :rocket: **Fueled by curiosity**, I delve into understanding complex tech mechanisms, coding, and innovative project development.
 
