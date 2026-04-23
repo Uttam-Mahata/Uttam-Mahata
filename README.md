@@ -8,9 +8,9 @@
 
 :student: Undergraduate at **IIEST Shibpur** pursuing Computer Science and Technology.
 
-:gear: Focused on **Systems Engineering** — Operating Systems, Computer Networks, and Distributed Systems.
+:gear: Focused on **Systems Engineering** — Operating Systems, Computer Networks, Information Security & Cryptography, Cybersecurity and Distributed Systems.
 
-:cloud: Interested in **DevOps, Cloud Infrastructure, and Scalable Backend Systems**.
+:cloud: Interested in **DevOps, Cloud Infrastructure, Cybersecurity and Scalable Backend Systems**.
 
 :microscope: I like breaking down systems — from kernel-level concepts to distributed architectures.
 
