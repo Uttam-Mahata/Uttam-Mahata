@@ -62,9 +62,9 @@
 |---|-----------|:---:|:---:|
 | 1 | [RootAccess](https://github.com/Uttam-Mahata/RootAccess) | **2415** | 35 |
 | 2 | [aulinux](https://github.com/Uttam-Mahata/aulinux) | **302** | 86 |
-| 3 | [adk-samples](https://github.com/Uttam-Mahata/adk-samples) | **92** | 7 |
-| 4 | [coursewagon](https://github.com/Uttam-Mahata/coursewagon) | **64** | 30 |
-| 5 | [portfolio](https://github.com/Uttam-Mahata/portfolio) | **54** | 37 |
+| 3 | [coursewagon](https://github.com/Uttam-Mahata/coursewagon) | **64** | 30 |
+| 4 | [portfolio](https://github.com/Uttam-Mahata/portfolio) | **54** | 37 |
+| 5 | [AeroMQ](https://github.com/Uttam-Mahata/AeroMQ) | **27** | 23 |
 
 <!-- updated: 2026-06-10 00:00 UTC -->
 <!-- CLONE-STATS:END -->
