@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="380" viewBox="0 0 1200 380"
+     role="img" aria-labelledby="hero-title hero-desc">
+  <title id="hero-title">Uttam Mahata — Systems Engineer</title>
+  <desc id="hero-desc">Uttam Mahata, a systems-minded software engineer and DevOps engineer at OpenLM, alongside a terminal-style list of his real systems projects: bhasa, aulinux, rootaccess, aeromq, and aquila.</desc>
+
+  <rect width="1200" height="380" rx="28" fill="#0b0d10"/>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <text x="56" y="76" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" letter-spacing="3" fill="#8b9099">SYSTEMS ENGINEER · IIEST SHIBPUR CST&#8217;26</text>
+
+    <text x="56" y="152" font-size="72" font-weight="700" fill="#f2f0ea">Uttam Mahata</text>
+
+    <text x="56" y="197" font-size="26" fill="#cdd2d8">Systems-minded engineer building fault-tolerant</text>
+    <text x="56" y="230" font-size="26" fill="#cdd2d8">infrastructure — from kernels to distributed storage.</text>
+
+    <text x="56" y="281" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="22" fill="#f2f0ea"><tspan fill="#f2a65a">$</tspan> whoami</text>
+    <text x="56" y="311" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" fill="#8b9099">&#8594; DevOps Engineer @ OpenLM · Kolkata, IN</text>
+  </g>
+
+  <g transform="translate(700 50)" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+    <rect x="0" y="0" width="444" height="280" rx="16" fill="#14171b" stroke="#2a2e33" stroke-width="1"/>
+
+    <text x="24" y="38" font-size="18" fill="#8b9099">$ ls ~/systems-projects</text>
+    <rect x="24" y="54" width="396" height="1" fill="#2a2e33"/>
+
+    <g font-size="20" fill="#f2f0ea">
+      <text x="24" y="92"><tspan fill="#f2a65a">&#9656;</tspan></text>
+      <text x="46" y="92">bhasa</text>
+      <text x="190" y="92" font-size="18" fill="#8b9099">lang · go</text>
+
+      <text x="24" y="132"><tspan fill="#f2a65a">&#9656;</tspan></text>
+      <text x="46" y="132">aulinux</text>
+      <text x="190" y="132" font-size="18" fill="#8b9099">os · c/go/rust</text>
+
+      <text x="24" y="172"><tspan fill="#f2a65a">&#9656;</tspan></text>
+      <text x="46" y="172">rootaccess</text>
+      <text x="190" y="172" font-size="18" fill="#8b9099">ctf · go</text>
+
+      <text x="24" y="212"><tspan fill="#f2a65a">&#9656;</tspan></text>
+      <text x="46" y="212">aeromq</text>
+      <text x="190" y="212" font-size="18" fill="#8b9099">queue · go+rust</text>
+
+      <text x="24" y="252"><tspan fill="#f2a65a">&#9656;</tspan></text>
+      <text x="46" y="252">aquila</text>
+      <text x="190" y="252" font-size="18" fill="#8b9099">storage · go</text>
+    </g>
+  </g>
+</svg>
