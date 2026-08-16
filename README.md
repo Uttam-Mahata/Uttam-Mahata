@@ -36,12 +36,6 @@
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-## ▸ Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uttam-Mahata&show_icons=true&include_all_commits=true&theme=default)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Uttam-Mahata&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uttam-Mahata&layout=compact&hide=Jupyter%20Notebook,HTML,CSS)
-
 ## ▸ Connect
 
 [<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=todoist&logoColor=white" alt="Personal website"/>](https://uttammahata.in)
